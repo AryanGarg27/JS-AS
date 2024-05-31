@@ -22,7 +22,6 @@ function mintNFT (_name,_eyeColor,_shirtType,_bling) {
     "bling": _bling
    }
    NFTs.push(NFT);
-  console.log("Minted: " + _name);
 }
 
 // create a "loop" that will go through an "array" of NFT's
